@@ -1,11 +1,12 @@
 ---
-title: Welcome to Quartz
+title: avxav & Odoo Integration Docs
 ---
+This is a way for us at avxav to share some of the problems and questions that we have, with you guys at Hamilton. This will also track those questions and problems.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Begin here:
+- [[avxav Problems (Odoo to Fix)]]
+- [[Questions to Ask Odoo Staff (Hamilton)]]
+- [[Ideas to Implement in Odoo]]
 
 
-This is a quick Change.
 
-And another change.....
