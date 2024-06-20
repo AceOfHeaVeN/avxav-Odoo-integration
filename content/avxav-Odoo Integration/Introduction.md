@@ -1,6 +1,6 @@
 ---
 title: '"Introduction"'
-draft: true
+draft: false
 tags:
 ---
 Just an intro.
