@@ -29,3 +29,8 @@ Which is better? what are the best practices for folder structures?
 Also Check this problem: [[avxav Problems (Odoo to Fix)#Finding the needed data without having to talk to another person|Finding Data Problem]]
 
 ---
+
+See Also:
+- [[avxav Problems (Odoo to Fix)]]
+- [[Ideas to Implement in Odoo]]
+

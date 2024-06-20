@@ -54,14 +54,16 @@ up:: [[Odoo]] [[avxav]]
 	- An example of this is the Steel Structures Company (Zain Project), we want to be on good terms with them, so that we can open up more business opportunities in the future.
 
 
-- Creating Project plans should be very quick and easy. Currently we do it in excel, but if there is a better recommendation, please let me know. ^3607c5
+- Creating project plans takes valuable time, what can we do to make those easier and faster to create?. Currently we do it in excel, but if there is a better recommendation, please let me know. ^3607c5
+
+
 
 ---
 ## Entire Company
 
 ### Finding the needed data without having to talk to another person:
 
-- This is one of the major issues that we have in our company. When someone needs certain information like:
+- This is one of the major issues that we have in our company. When someone needs certain information like: ^899a53
 	- Inventory quantity of a certain item.
 		- And if this item is reserved for a certain client.
 		- If this item has been installed as a mockup for a certain client.
@@ -70,3 +72,10 @@ up:: [[Odoo]] [[avxav]]
 	- The price for certain 3rd party services and items (Check this problem: [[avxav Problems (Odoo to Fix)#^75389c|Pricing Problem]])
 - A ==Solution== Might be to create a standardized folder structure that the entire company can easily follow, making finding the required documents easy.
 	- (Also check this: [[Questions to Ask Odoo Staff (Hamilton)#What is the best way to setup folder names (Folder Structures) for everyone in the company to be able to access the data that they need?|Question: Folder Structure]]).
+
+
+---
+
+See Also:
+- [[Questions to Ask Odoo Staff (Hamilton)]]
+- [[Ideas to Implement in Odoo]]
