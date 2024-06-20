@@ -30,7 +30,7 @@ Examples:
 - Traveling to other countries, we need passports.
 	- Each employee card could hold their legal documents that only HR, or certain managers can access, as well as the same employee.
 	- IDs are also needed when working inside of governmental institutions.
-- Check this problem: [[avxav Problems (Odoo to Fix)#^899a53|Folder Structure]]
+- Check this problem: [[avxav Problems (Odoo to Fix)#^899a53|Finding Data Problem]]
 
 
 
