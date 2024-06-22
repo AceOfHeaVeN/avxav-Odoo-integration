@@ -6,9 +6,9 @@ longform:
   sceneFolder: /
   scenes:
     - avxav Problems (Odoo to Fix)
-    - Questions to Ask Odoo Staff (Hamilton)
+    - Questions to Ask Odoo Staff
     - Ideas to Implement in Odoo
-    - SDB Questions to Ask
+    - SDB Questions to Ask Odoo
     - SDB Problems (Odoo to Fix)
   sceneTemplate: Templates/Inputs/quartz.md
   ignoredFiles: []

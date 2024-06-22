@@ -8,8 +8,11 @@ up:: [[Odoo]] [[avxav]]
 ==The four major performance KPIs are:==
 
 ==1. Measure of Cost==
+
 ==2. Measure of Quality==
+
 ==3. Measure of Speed==
+
 ==4. Measure of Service==
 
 ---
@@ -72,11 +75,11 @@ up:: [[Odoo]] [[avxav]]
 		- I personally need this in order to complete CAD drawings by knowing the types and quantities of the screens.
 	- The price for certain 3rd party services and items (Check this problem: [[avxav Problems (Odoo to Fix)#^75389c|Pricing Problem]])
 - A ==Solution== Might be to create a standardized folder structure that the entire company can easily follow, making finding the required documents easy.
-	- (Also check this: [[Questions to Ask Odoo Staff (Hamilton)#What is the best way to setup folder names (Folder Structures) for everyone in the company to be able to access the data that they need?|Question: Folder Structure]]).
+	- (Also check this: [[Questions to Ask Odoo Staff#What is the best way to setup folder names (Folder Structures) for everyone in the company to be able to access the data that they need?|Question: Folder Structure]]).
 
 
 ---
 
 See Also:
-- [[Questions to Ask Odoo Staff (Hamilton)]]
+- [[Questions to Ask Odoo Staff]]
 - [[Ideas to Implement in Odoo]]
