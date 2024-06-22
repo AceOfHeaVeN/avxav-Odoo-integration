@@ -6,6 +6,11 @@ tags:
 up:: [[Odoo]] [[avxav]]
 
 ## Entire Company
+
+### Can we use it in Offline Mode? IMPORTANT
+
+This is the most important question, if the internet goes down in avxav or in SDB, will we be able to use it offline?
+- We bought Odoo.sh, so I'm assuming that everything will be on the cloud, how will the system be configured to allow offline actions?
 ### Can I link the documents app to my windows explorer?
 
 So that I can create documents inside the Odoo documents app, and then be able to see them as windows files and folders?
