@@ -38,5 +38,5 @@ Examples:
 
 See Also:
 - [[avxav Problems (Odoo to Fix)]]
-- [[Questions to Ask Odoo Staff]]
+- [[Questions to Ask Odoo]]
 

@@ -48,3 +48,12 @@ up:: [[Odoo]] [[SDB Sugar Daddy's Bakery]]
 
 
 - We also need to add the **Waste Percentage** field, this might be one of the major reasons that cause us to have lots of variances when doing the inventory count.
+
+
+
+---
+
+See Also:
+- [[SDB Problems (Odoo to Fix)]]
+- [[SDB Ideas to Implement in Odoo]]
+

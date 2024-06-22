@@ -9,7 +9,7 @@ Begin here:
 
 avxav Notes:
 - [[avxav Problems (Odoo to Fix)]]
-- [[Questions to Ask Odoo Staff]]
+- [[Questions to Ask Odoo]]
 - [[Ideas to Implement in Odoo]]
 
 SDB Notes:

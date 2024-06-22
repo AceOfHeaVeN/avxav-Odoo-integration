@@ -6,7 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - avxav Problems (Odoo to Fix)
-    - Questions to Ask Odoo Staff
+    - Questions to Ask Odoo
     - Ideas to Implement in Odoo
     - SDB Questions to Ask Odoo
     - SDB Problems (Odoo to Fix)
