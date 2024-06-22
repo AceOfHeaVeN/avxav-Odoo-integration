@@ -6,6 +6,7 @@ tags:
 up:: [[Odoo]] [[avxav]]
 
 ==The four major performance KPIs are:==
+
 ==1. Measure of Cost==
 ==2. Measure of Quality==
 ==3. Measure of Speed==

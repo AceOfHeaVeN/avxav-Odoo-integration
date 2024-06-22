@@ -5,23 +5,23 @@ tags:
 ---
 up:: [[Odoo]] [[SDB Sugar Daddy's Bakery]]
 
-Product Template:
 
-Product Variant?
-- Is this variances like the size of the product or the color? Ex:
-	- 9" Chocolate Fudge Cake
-	- 8" Chocolate Fudge Cake
-	- etc.
-- Or is this a variant as in when purchasing a certain brand of cream cheese, but that brand is out of stock so we purchase from another brand?
+### Regarding the Product template shared on Friday 14-Jun-24
 
-
-- Purchase UoM:
+- **Product Variants**: What is this field?
+	- Is this variances like the size of the product or the color? Ex:
+		- 9" Chocolate Fudge Cake
+		- 8" Chocolate Fudge Cake
+		- etc.
+	- Or is this a variant for purchasing products. Ex:
+		- Purchasing from a certain brand of cream cheese, but that brand is out of stock so,
+		- We purchase from another brand, is this a variant?
+- **Purchase UoM**:
 	- How to define this on the system for each raw material?
-		- We purchase some products in a pack of 12 or 24, but each product is unique, as many can be purchased in 12 pcs, but for example:
+		- We purchase some products in a pack of 12 or 24, but each product is unique, for example, many products can be purchased in 12 pcs, but for example:
 			- Peanut butter are 340g per pcs.
 			- While Nutella is 750g per pcs.
-
-- For Product category:
+- **Product category**:
 	- We require sub categories for almost all items, ex:
 		- Cakes:
 			- Tea Time Cakes.
@@ -42,9 +42,9 @@ Product Variant?
 			- Crafts and Disposable Items.
 			- Kitchen Utensils.
 			- Cleaning Materials.
-
-
-- Locations:
+- **Locations**:
 	- There are three location fields, Warehouses, Locations, Inventory Locations.
+		- How are these different?
 
 
+- We also need to add the **Waste Percentage** field, this might be one of the major reasons that cause us to have lots of variances when doing the inventory count.
