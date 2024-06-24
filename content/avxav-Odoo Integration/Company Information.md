@@ -4,7 +4,6 @@ draft: false
 tags:
 ---
 This page contains the information for all companies under avxav Holdings.
-
 ## avxav
 
 ![[AVXAV Logo Option 2-Preview-01.png|100]]

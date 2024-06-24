@@ -17,5 +17,7 @@ SDB Notes:
 - [[SDB Questions to Ask Odoo]]
 - [[SDB Ideas to Implement in Odoo]]
 
+Company Information:
+- [[Company Information]]
 
 Link to this page if needed: [avxav-Odoo-Integration](https://aceofheaven.github.io/avxav-Odoo-integration/).
