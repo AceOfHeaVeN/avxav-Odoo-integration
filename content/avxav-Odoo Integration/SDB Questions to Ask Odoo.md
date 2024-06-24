@@ -6,6 +6,7 @@ tags:
 up:: [[Odoo]] [[SDB Sugar Daddy's Bakery]]
 
 
+Agenda for Monday's Meeting:
 ### Regarding the Product template shared on Friday 14-Jun-24
 
 - **Product Variants**: What is this field?
@@ -28,26 +29,27 @@ up:: [[Odoo]] [[SDB Sugar Daddy's Bakery]]
 			- Single Layered Cakes.
 			- Three Layered Cakes.
 		- Raw Materials:
-			- Dry Items.
+			- Dry Ingredients.
 			- Confectionery.
 			- Frozen.
 			- Dairy.
 			- Drinks.
 			- Poultry.
 			- Fats and Oils.
-			- Sweeteners, flavors, and food colors.
-			- Jam, Marmalade, and Fruit Filling.
+			- Sweeteners, Flavorings, and Food Coloring.
+			- Jam, Marmalade, and Fruit Fillings.
 			- Nuts.
 			- Fruits and Legumes.
-			- Crafts and Disposable Items.
+			- Kraft and Disposable Items.
 			- Kitchen Utensils.
-			- Cleaning Materials.
+			- Cleaning Supplies.
 - **Locations**:
 	- There are three location fields, Warehouses, Locations, Inventory Locations.
 		- How are these different?
 
 
 - We also need to add the **Waste Percentage** field, this might be one of the major reasons that cause us to have lots of variances when doing the inventory count.
+- Finally, The **Expiry Date** for products is the most important field, and a must-have for all products. 
 
 
 

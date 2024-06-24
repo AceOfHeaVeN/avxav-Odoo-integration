@@ -10,6 +10,7 @@ longform:
     - Ideas to Implement in Odoo
     - SDB Questions to Ask Odoo
     - SDB Problems (Odoo to Fix)
+    - Company Information
   sceneTemplate: Templates/Inputs/quartz.md
   ignoredFiles: []
 ---

@@ -3,13 +3,7 @@ title: '"SDB Problems (Odoo to Fix)"'
 draft: false
 tags:
 ---
-up:: 
-
-## Back Of House
-
-### Kitchen
-
-
+up:: [[Odoo]] [[SDB Sugar Daddy's Bakery]]
 
 ## Finance / Accounting / Invoicing
 
