@@ -7,16 +7,6 @@ This is a way for us at avxav to share some of the problems and questions that w
 
 Begin here:
 
-avxav Notes:
-- [[avxav Problems (Odoo to Fix)]]
-- [[Questions to Ask Odoo]]
-- [[Ideas to Implement in Odoo]]
-
-SDB Notes:
-- [[SDB Problems (Odoo to Fix)]]
-- [[SDB Questions to Ask Odoo]]
-- [[SDB Ideas to Implement in Odoo]]
-
 Company Information:
 - [[Company Information]]
 

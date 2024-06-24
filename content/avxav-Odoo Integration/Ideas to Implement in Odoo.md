@@ -1,6 +1,6 @@
 ---
 title: '"Ideas to Implement in Odoo"'
-draft: false
+draft: true
 tags:
 ---
 up:: [[Odoo]] [[avxav]]
