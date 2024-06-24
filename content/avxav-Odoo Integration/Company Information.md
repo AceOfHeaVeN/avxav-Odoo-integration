@@ -109,3 +109,29 @@ This page contains the information for all companies under avxav Holdings.
 	- Steward * 2.
 - Delivery:
 	- Driver * 2.
+
+
+## avx
+
+![[AVXAV Logo Option 2-Preview-01.png|100]]
+
+**Legal Name**: AVX For Telecommunications LLC.
+**Website**: https://avxav.com/
+**Email**: support@avxav.com
+**Address**: KSA, 
+**Tax Identification Number**: 
+**Landline Number**: +962-6-533-9370
+**Fax Number**: +962-6-533-9774
+
+
+## avxav
+
+![[AVXAV Logo Option 2-Preview-01.png|100]]
+
+**Legal Name**: AVXAV Electronic Trading LLC.
+**Website**: https://avxav.com/
+**Email**: support@avxav.com
+**Address**: UAE, 
+**Tax Identification Number**: 
+**Landline Number**: +962-6-533-9370
+**Fax Number**: +962-6-533-9774
