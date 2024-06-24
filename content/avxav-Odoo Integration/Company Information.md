@@ -6,7 +6,7 @@ tags:
 This page contains the information for all companies under avxav Holdings.
 ## avxav
 
-![[AVXAV Logo Option 2-Preview-01.png|100]]
+![[avxav-logo-square.png|100]]
 
 **Legal Name**: Professional Audio Visual & Multimedia Co. Ltd.
 **Website**: https://avxav.com/
