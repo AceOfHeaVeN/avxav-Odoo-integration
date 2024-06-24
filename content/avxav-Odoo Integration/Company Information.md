@@ -13,8 +13,8 @@ This page contains the information for all companies under avxav Holdings.
 **Email**: support@avxav.com
 **Address**: Jordan, Amman, Al Bsha'er, King Abdullah II St.,  137, 1st Floor, 11910.
 **Tax Identification Number**: 
-**Landline Number**: +962-6-533-9370
-**Fax Number**: +962-6-533-9774
+**Landline Number**: +962 6 533 9370
+**Fax Number**: +962 6 533 9774
 
 - **Current Employee Structure**:
 	- Management:
@@ -67,33 +67,33 @@ This page contains the information for all companies under avxav Holdings.
 **Tax Identification Number**: 
 **Locations**:
 - Abdoun Branch:
-	- Google Maps: https://goo.gl/maps/p61vTDesCxtxfnzRA
-	- Fawzi Al-Mughrabi St. 15, Amman
-	- WVQG+VG Amman
-	- 31.93965835319586, 35.87630208428201
-	- Landline Number: +962 6 593 3032
-	- WhatsApp: +962 7 7593 3032
-- Dabouq Branch:
-	- Google Maps: https://goo.gl/maps/W8Uu5VxUUvJfYyQt5
-	- Ahl Al-Beit St. 29, Amman
-	- XRR7+RM Amman
-	- 31.99221176823371, 35.81423304121989
-	- Landline Number: +962 6 551 5525
-	- WhatsApp: +962 7 7800 5525
+	- **Google Maps**: https://goo.gl/maps/p61vTDesCxtxfnzRA
+	- **Address**: Jordan, Amman, Abdoun Al Janoubi, Fawzi Al-Mughrabi St., 15, 11183.
+	- **Plus Code**: WVQG+VG Amman
+	- **Coordinates**: 31.93965835319586, 35.87630208428201
+	- **Landline Number**: +962 6 593 3032
+	- **WhatsApp**: +962 7 7593 3032
+- Dabouq Branch (Flagship Branch):
+	- **Google Maps**: https://goo.gl/maps/W8Uu5VxUUvJfYyQt5
+	- **Address**: Jordan, Amman, Dabouq, Ahl Al-Beit St., 29, 11822.
+	- **Plus Code**: XRR7+RM Amman
+	- **Coordinates**: 31.99221176823371, 35.81423304121989
+	- **Landline Number**: +962 6 551 5525
+	- **WhatsApp**: +962 7 7800 5525
 - Um Uthainah Branch:
-	- Google Maps: https://goo.gl/maps/RPR7zrLKq8NShwhv9
-	- Saed Ben Abi WaqqAs-St. 25, Amman, Jordan
-	- XV7H+V3 Amman, Jordan
-	- 31.964793991340947, 35.87768890946191
-	- Phone Number: +962 7 9223 3032
-	- WhatsApp: +962 7 9223 3032
+	- **Google Maps**: https://goo.gl/maps/RPR7zrLKq8NShwhv9
+	- **Address**: Jordan, Amman, Um Uthainah Al Sharqi, Saed Ben Abi WaqqAs-St., 25, 11185.
+	- **Plus Code**: XV7H+V3 Amman, Jordan
+	- **Coordinates**: 31.964793991340947, 35.87768890946191.
+	- **Phone Number**: +962 7 9223 3032
+	- **WhatsApp**: +962 7 9223 3032
 - Abdoun Al Shamali Branch:
-	- Google Maps: https://goo.gl/maps/xgx9GnbUmeEdYFnd7
-	- Fawzi Al-Qawekji St. 11, Amman 11183
-	- XV3M+GG Amman
-	- 31.953768, 35.883872
-	- Landline Number: +962 6 554 3444
-	- WhatsApp: +962 7 7994 3444
+	- **Google Maps**: https://goo.gl/maps/xgx9GnbUmeEdYFnd7
+	- **Address**: Jordan, Amman, Abdoun Al Shamali, Fawzi Al-Qawekji St., 11, 11183.
+	- **Plus Code**: XV3M+GG Amman
+	- **Coordinates**: 31.953768, 35.883872
+	- **Landline Number**: +962 6 554 3444
+	- **WhatsApp**: +962 7 7994 3444
 
 - **Current Employee Structure**:
 - Operations:
@@ -110,7 +110,7 @@ This page contains the information for all companies under avxav Holdings.
 	- Driver * 2.
 
 
-## avx
+## avx For Telecommunications LLC
 
 ![[AVXAV Logo Option 2-Preview-01.png|100]]
 
@@ -126,7 +126,7 @@ This page contains the information for all companies under avxav Holdings.
 	- Sales Department:
 		- Sales Manager.
 
-## avxav
+## avxav Electronic Trading LLC
 
 ![[AVXAV Logo Option 2-Preview-01.png|100]]
 
