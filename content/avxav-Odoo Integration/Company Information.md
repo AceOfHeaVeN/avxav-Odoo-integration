@@ -122,6 +122,9 @@ This page contains the information for all companies under avxav Holdings.
 **Landline Number**: +962-6-533-9370
 **Fax Number**: +962-6-533-9774
 
+- **Current Employee Structure**:
+	- Sales Department:
+		- Sales Manager.
 
 ## avxav
 
