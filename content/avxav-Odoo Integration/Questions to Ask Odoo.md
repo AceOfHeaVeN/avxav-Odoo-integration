@@ -33,6 +33,13 @@ Which is better? what are the best practices for folder structures?
 
 Also Check this problem: [[avxav Problems (Odoo to Fix)#Finding the needed data without having to talk to another person|Finding Data Problem]]
 
+## Inventory
+
+### How does Odoo handle Safety Stock (Min Order) and Alert Us About It?
+
+- We tried creating a new Reordering Rule for an item, and after it got below the min quantity, it didn't create a PO, nor give us an alert.
+
+
 ---
 
 See Also:

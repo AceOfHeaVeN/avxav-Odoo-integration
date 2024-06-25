@@ -12,7 +12,7 @@ This page contains the information for all companies under avxav Holdings.
 **Website**: https://avxav.com/
 **Email**: support@avxav.com
 **Address**: Jordan, Amman, Al Bsha'er, King Abdullah II St.,  137, 1st Floor, 11910.
-**Tax Identification Number**: 
+**Tax Identification Number**: 017928052
 **Landline Number**: +962 6 533 9370
 **Fax Number**: +962 6 533 9774
 
@@ -64,7 +64,7 @@ This page contains the information for all companies under avxav Holdings.
 **Email**: info@sugardaddysbakery.com
 **Applications (Android/iOS)**: http://onelink.to/u5cwmb
 **Address**: Jordan, Amman, Al Bsha'er, King Abdullah II St., 137, 1st Floor, 11910.
-**Tax Identification Number**: 
+**Tax Identification Number**: 16636554
 **Locations**:
 - Abdoun Branch:
 	- **Google Maps**: https://goo.gl/maps/p61vTDesCxtxfnzRA
@@ -112,15 +112,14 @@ This page contains the information for all companies under avxav Holdings.
 
 ## avx For Telecommunications LLC
 
-![[AVXAV Logo Option 2-Preview-01.png|100]]
+![[avx-logo-square.jpg|100]]
 
 **Legal Name**: AVX For Telecommunications LLC.
 **Website**: https://avxav.com/
 **Email**: support@avxav.com
-**Address**: KSA, 
-**Tax Identification Number**: 
-**Landline Number**: +962-6-533-9370
-**Fax Number**: +962-6-533-9774
+**Address**: KSA, Riyadh, Al Muhammadiyah District, King Fahad Branch St., 8006, 12363.
+**Tax Identification Number**: 311809548600003
+**Phone Number**: +966 5 4057 4540
 
 - **Current Employee Structure**:
 	- Sales Department:
@@ -128,12 +127,11 @@ This page contains the information for all companies under avxav Holdings.
 
 ## avxav Electronic Trading LLC
 
-![[AVXAV Logo Option 2-Preview-01.png|100]]
+![[avxav-logo-square.png|100]]
 
 **Legal Name**: AVXAV Electronic Trading LLC.
 **Website**: https://avxav.com/
 **Email**: support@avxav.com
-**Address**: UAE, 
-**Tax Identification Number**: 
-**Landline Number**: +962-6-533-9370
-**Fax Number**: +962-6-533-9774
+**Address**: UAE, Dubai, Port Saeed, Deira, Dubai National Insurance Building, Office #16.
+**Tax Identification Number**: 100548136900003
+**Phone Number**: +971 5 0785 3682
