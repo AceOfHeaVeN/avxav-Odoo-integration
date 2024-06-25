@@ -1,3 +1,6 @@
+---
+draft: true
+---
 <%*
 const { execSync } = require('child_process');
 
