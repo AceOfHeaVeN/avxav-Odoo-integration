@@ -129,9 +129,9 @@ This page contains the information for all companies under avxav Holdings.
 
 ![[avxav-logo-square.png|100]]
 
-**Legal Name**: AVXAV Electronic Trading LLC.
-**Website**: https://avxav.com/
-**Email**: support@avxav.com
-**Address**: UAE, Dubai, Port Saeed, Deira, Dubai National Insurance Building, Office #16.
-**Tax Identification Number**: 100548136900003
-**Phone Number**: +971 5 0785 3682
+- **Legal Name**: AVXAV Electronic Trading LLC.
+- **Website**: https://avxav.com/
+- **Email**: support@avxav.com
+- **Address**: UAE, Dubai, Port Saeed, Deira, Dubai National Insurance Building, Office #16.
+- **Tax Identification Number**: 100548136900003
+- **Phone Number**: +971 5 0785 3682
