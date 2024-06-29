@@ -1,6 +1,6 @@
 ---
 title: '"Accounting with Sartawi"'
-draft: true
+draft: false
 tags:
 ---
 ## Quick Meeting 27-Jun-2024
