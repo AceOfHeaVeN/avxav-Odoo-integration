@@ -9,20 +9,17 @@ This page contains the requests that are made by the employees from different se
 
 ### Rana's Requests:
 
-![[Requests by Rana#^PurchaseList]]
-![[Requests by Rana#^JE-Mistakes-Easy]]
+![[Requests by Rana#Requests]]
 
 ### Hammad's Requests
 
-![[Requests by Hammad#^Deferrals]]
+![[Requests by Hammad#Requests]]
 
 ### Sartawi's Requests:
 
-![[Requests by Sartawi#^Duplicate-JEs]]
-
+![[Requests by Sartawi#Requests]]
 ## Supply Chain, Logistics, Procurement
 
 ### Ola's Requests
 
-![[Requests by Ola#^PO-Handling]]
-
+![[Requests by Ola#Requests]]

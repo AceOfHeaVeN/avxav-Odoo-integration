@@ -7,9 +7,9 @@ tags:
 
 ### Requests:
 
-- Purchases List Report should be easily printable for the Auditors. ^PurchaseList
+- Purchases List Report should be easily printable for the Auditors.
 	- This report is currently being done manually, which takes a long amount of time.
-- Easily handling mistakes in Journal Entries: ^JE-Mistakes-Easy
+- Easily handling mistakes in Journal Entries:
 	- If a JE (JE1) contained a mistake done by "A" and was also posted to the system by "B", then to fix it, "A or B" should be able to edit the values of the JE, then the system does the following:
 		- JE1 Stays posted.
 		- The system creates JE2, which is the reverse of JE1.
