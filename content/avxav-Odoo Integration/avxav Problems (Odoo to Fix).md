@@ -51,6 +51,11 @@ up:: [[Odoo]] [[avxav]]
 		- Pre-sales for Steel structure, wench, and labor costs.
 		- Then when all of these departments add their estimated costs, the sales team can then prepare the quotation.
 
+- Another similar issue is with adding the correct Incoterms and payment terms: ^9f64ce
+	- If the sales person is not very familiar with Incoterms, then they might add the wrong terms to the RFQ.
+	- And sometimes, even if they add the correct payment terms as usually defined, the Finance department might have a different view depending on the current financial situation.
+	- So adding approvals prior to sending the RFQ will be the ==solution== for this issue.
+
 ---
 ## Project Management
 

@@ -31,6 +31,9 @@ The meeting basically went as follows:
 			- Must be approved by the **Supply Chain and Logistics Department**.
 		- 3rd Party Construction works (ex: Steel Structure, Glass, Extra Workers, Cranes, etc.).
 			- Must be approved by the **Project Management Department**.
+		- In other special and urgent cases, the entire approvals process can be overridden completely. ^Approvals-Override-Question
+			- This is usually a request by the owner to the sales team to send an offer immediately.
+			- How shall we handle this?
 	- That was just an example, but the approval workflows will be used in almost all tasks that require cooperating with other departments.
 - We briefly discussed transferring HR from Minaitech to Odoo, but we need to study it for two reasons:
 	- The HR needs to study if Odoo supports all the features that Menaitech supports.
@@ -45,4 +48,3 @@ The meeting basically went as follows:
 - Finally, Odoo allows us to do everything from inside of it, without needing to switch apps:
 	- For example, we can send emails directly from Odoo, this includes full conversations (Replies and CCs) and attachment management.
 	- However, this doesn't mean that we will never use Excel for example, but having automations in the system will greatly reduce friction in our processes.
-
