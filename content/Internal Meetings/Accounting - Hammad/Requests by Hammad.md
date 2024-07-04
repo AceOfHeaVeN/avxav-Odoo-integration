@@ -1,6 +1,6 @@
 ---
 title: '"Accounting with Hammad"'
-draft: false
+draft: true
 tags:
 ---
 ## Quick Meeting 27-Jun-2024

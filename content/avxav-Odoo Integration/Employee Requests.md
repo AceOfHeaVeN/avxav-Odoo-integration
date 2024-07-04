@@ -1,6 +1,6 @@
 ---
 title: '"Employee Requests"'
-draft: false
+draft: true
 tags:
 ---
 This page contains the requests that are made by the employees from different sections to be implemented in Odoo (if not already there, else we just confirm and move on).
